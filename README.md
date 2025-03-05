@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h3 align="center">✨ Tech Stack ✨</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Kotlin-20232a.svg?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />&nbsp
+</div>
+
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Mode1221=anuraghazra&layout=compact)
+
+<br/>
